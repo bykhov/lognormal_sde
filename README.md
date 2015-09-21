@@ -1,5 +1,6 @@
 # lognormal_sde
 This file includes supplementary downloadable material, provided by the authors of the paper:
+
 D. Bykhovsky, "Channel Simulator for Weak-Turbulence Free-Space Optical Communications," submitted to Applied Optics
 
 This file includes Matlab code that can be used to partially reproduce the presented results.
