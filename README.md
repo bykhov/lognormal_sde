@@ -1,7 +1,7 @@
 # lognormal_sde
 This file includes supplementary downloadable material, provided by the authors of the paper:
 
-D. Bykhovsky, "Channel Simulator for Weak-Turbulence Free-Space Optical Communications," Appl. Opt. 54, 9055-9059 (2015).
+D. Bykhovsky, "Channel Simulator for Weak-Turbulence Free-Space Optical Communications," Appl. Opt. 54, 9055-9059 (2015), doi:10.1364/AO.54.009055.
 
 The goal of this work is to generate lognormal distributed values with approximately exponential auto-covariance function and is based on a solution of first order stochastic differential equation (SDE). The provided code produces an example of such values, including probability density function (PDF) and auto-correlation function (ACF).
 This code includes two Matlab files:
