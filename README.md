@@ -1,5 +1,5 @@
 # lognormal_sde
-This file includes supplementary downloadable material, provided by the authors of the paper:
+This is supplementary downloadable material, provided by the authors of the paper:
 
 D. Bykhovsky, "Channel Simulator for Weak-Turbulence Free-Space Optical Communications," Appl. Opt. 54, 9055-9059 (2015), http://dx.doi.org/10.1364/AO.54.009055.
 
